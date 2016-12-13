@@ -78,9 +78,6 @@ h2 {
   line-height: 52px;
   color: #FF00FF;
   opacity: 0.5;
-  background: -webkit-linear-gradient(#FF00FF, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .nav-moabees .nav > li > a:hover {
